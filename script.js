@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "I LOVE YOU!!!";
+  titleElement.innerHTML = "I love you, lovie. Hopefully, makita na kita soon, lalo na at paalis ka na this July. I know ang corny ko sa part na to, but, ayon nga. This is for you!!!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
