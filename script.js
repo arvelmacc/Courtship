@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "I love you, lovie. Hopefully, makita na kita soon, lalo na at paalis ka na this July. I know ang corny ko sa part na to, but, ayon nga. This is for you!!!";
+  titleElement.innerHTML = "I like you, Liza. I know corny ko sa part na to'. Pero wala eh, I just want you to know that I find comfort in your voice. And I really love talking to you. So yeah, this is for you!!!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
@@ -44,7 +44,7 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Are you sure?",
-    "Lovie! please!!!",
+    "Love! please!!!",
     "Don't do this to me :(",
     "You're breaking my heart",
     "I'm gonna cry...",
